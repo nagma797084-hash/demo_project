@@ -12,7 +12,10 @@ class _SignupPageState extends State<SignupPage> {
   Widget build(BuildContext context) {
     return SafeArea(child: Column(
       children: [
-        Text("hello guys")
+        Text("hello guys"),
+        Text("hello guys"),
+
+
       ],
     ));
   }
